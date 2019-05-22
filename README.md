@@ -1,3 +1,3 @@
 # Hello_World
 My First Repository
-This is Anilkumar Kangan Studying B.E Final Year in Saveetha School Of Engineering , Saveetha University ,Chennai-602105
+Hi there i intend to develop a react based projects for my final year.let me know if there are any ideas.
